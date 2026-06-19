@@ -2,29 +2,26 @@
 
 # Hi 👋, I'm Yan Ge
 
-### A Computer Science and Artificial Intelligence student
+### Machine Learning Engineer | AI Systems | Python & C++
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=AI+%7C+Computer+Vision+%7C+Machine+Learning;Research+on+Puzzle+Reassembly;Building+clean+and+interesting+AI+projects)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Python+%7C+C%2B%2B+%7C+Deep+Learning;AI+Systems+%7C+GPU+Computing+%7C+Physical+AI;Building+efficient+and+practical+AI+systems)
 
 </div>
 
 ---
 
-## About Me
+## About Me 
 
-- 🎓 I am currently studying **Computer Science and Artificial Intelligence** at the **University of Nottingham**
-- 🤖 Interested in **Machine Learning, Computer Vision, Deep Learning, and Optimization**
-- 🧩 Currently working on **AI-based puzzle reassembly**
-- 📄 Research experience: **Hierarchical Solver for Reassembling Mixed Puzzles of Eroded Gaps**
-- 🚀 Goal: building practical AI systems and research-oriented projects
+- 🎓 Recently graduated from **Computer Science and Artificial Intelligence** at the **University of Nottingham**
+- 🚀 Incoming MSc student in **Applied Computational Science and Engineering** at **Imperial College London**
+- 🧠 Strong foundation in **Deep Learning**, with interests in **AI Systems, GPU computing, AI chips, and Physical AI**
+- 📫 Contact me at **geyan690@gmail.com**
 
 ---
 
 ## Languages and Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,java,cpp,c,linux,git,github,vscode,anaconda,docker,nextjs,react,html,css,js" />
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,c,pytorch,tensorflow,opencv,sklearn,linux,git,github,docker,vscode,anaconda" /> </p>
 
 ---
 
@@ -37,25 +34,21 @@
 
 ---
 
-## Featured Research Project
+## Publications
 
 ### 🧩 Hierarchical Solver for Reassembling Mixed Puzzles of Eroded Gaps
 
-A research project focused on mixed-puzzle reassembly with eroded gaps.
+**ICASSP 2026**
 
-Main components:
+A research paper on AI-based visual puzzle reassembly, combining **deep learning**, **clustering**, **optimization**, and **reassembly algorithms**.
 
-- Evidence-Guided Puzzle Partition
-- Deep Spectral Clustering Learning
-- Evolutionary Reassembly Solver
-- Reinforcement Learning Reassembly Solver
-
----
-
-## A Fun Widget
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=butterbuster4&theme=tokyonight&no-frame=true&row=1&column=6" />
+<p>
+  <a href="https://ieeexplore.ieee.org/document/11464140/metrics#metrics">
+    <img src="https://img.shields.io/badge/Paper-ICASSP%202026-blue?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/butterbuster4/AHS">
+    <img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
@@ -66,12 +59,3 @@ Main components:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=butterbuster4&theme=tokyo-night&hide_border=true" />
 </p>
 
----
-
-## Contact
-
-<p align="center">
-  <a href="https://github.com/geyan690">
-    <img src="https://img.shields.io/badge/GitHub-butterbuster4-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
