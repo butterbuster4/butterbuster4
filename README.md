@@ -1,61 +1,77 @@
-# Hi there, I'm Yan Ge 👋
+<div align="center">
 
-🎓 Computer Science and Artificial Intelligence student at the University of Nottingham Ningbo China  
-🤖 Interested in AI, Computer Vision, Machine Learning, and Puzzle Reassembly  
-📄 ICASSP 2026 paper: Hierarchical Solver for Reassembling Mixed Puzzles of Eroded Gaps  
+# Hi 👋, I'm Yan Ge
 
----
+### A Computer Science and Artificial Intelligence student
 
-## 🚀 About Me
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=AI+%7C+Computer+Vision+%7C+Machine+Learning;Research+on+Puzzle+Reassembly;Building+clean+and+interesting+AI+projects)
 
-I am currently working on AI-based puzzle reassembly, including deep clustering, evolutionary solvers, and reinforcement learning methods.
-
-My interests include:
-
-- Machine Learning
-- Computer Vision
-- Deep Learning
-- Optimization Algorithms
-- AI for Visual Reasoning
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- 🎓 I am currently studying **Computer Science and Artificial Intelligence** at the **University of Nottingham**
+- 🤖 Interested in **Machine Learning, Computer Vision, Deep Learning, and Optimization**
+- 🧩 Currently working on **AI-based puzzle reassembly**
+- 📄 Research experience: **Hierarchical Solver for Reassembling Mixed Puzzles of Eroded Gaps**
+- 🚀 Goal: building practical AI systems and research-oriented projects
 
 ---
 
-## 📌 Featured Projects
+## Languages and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,java,cpp,c,linux,git,github,vscode,anaconda,docker,nextjs,react,html,css,js" />
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=geyan690&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geyan690&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## Featured Research Project
 
 ### 🧩 Hierarchical Solver for Reassembling Mixed Puzzles of Eroded Gaps
 
-A research project for mixed-puzzle reassembly with eroded gaps, combining:
+A research project focused on mixed-puzzle reassembly with eroded gaps.
+
+Main components:
 
 - Evidence-Guided Puzzle Partition
 - Deep Spectral Clustering Learning
 - Evolutionary Reassembly Solver
 - Reinforcement Learning Reassembly Solver
 
-### 🤖 Machine Learning Coursework
+---
 
-CIFAR-10 classification using PCA, MLP, KNN, and Random Forest.
+## A Fun Widget
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=geyan690&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## Contribution Activity
 
-![Yan's GitHub stats](https://github-readme-stats.vercel.app/api?username=geyan690&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geyan690&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=geyan690&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
-## 📫 Contact
+## Contact
 
-- Email: your_email@example.com
-- GitHub: [@geyan690](https://github.com/geyan690)
+<p align="center">
+  <a href="https://github.com/geyan690">
+    <img src="https://img.shields.io/badge/GitHub-geyan690-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
