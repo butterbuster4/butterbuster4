@@ -29,7 +29,7 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=butterbuster4&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=butterbuster4&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=butterbuster4&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5&v=20260621" />
 </p>
 
 ---
